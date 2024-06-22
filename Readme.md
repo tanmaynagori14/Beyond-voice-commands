@@ -44,7 +44,9 @@ Existing voice assistants rely on internal APIs or mobile metadata to perform ta
 
 ### Task Examples
 1. *Open Instagram, Like and Comment*: The model searches for Instagram using OCR and icon detection, opens the app, likes the first picture, and comments "Good" on it .
-   https://github.com/tanmaynagori14/Beyond-voice-commands/assets/97458530/7f148658-6eeb-4319-97ad-db6ccf546f4b
+
+https://github.com/tanmaynagori14/Beyond-voice-commands/assets/97458530/2adeeb4e-6a3d-4106-ab98-3d27cc388515
+
 
 ## Authors and Contact Information
 - *Institution*: Netaji Subhas University of Technology, New Delhi, India
